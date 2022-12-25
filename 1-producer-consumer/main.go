@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////////////////////////
 //
-// Given is a producer-consumer szenario, where a producer reads in
+// Given is a producer-consumer scenario, where a producer reads in
 // tweets from a mockstream and a consumer is processing the
 // data. Your task is to change the code so that the producer as well
 // as the consumer can run concurrently
